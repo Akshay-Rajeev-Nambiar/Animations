@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Animations</string>
+    <string name="travel_guide_text">TRAVEL GUIDE</string>
+    <string name="skip_text">SKIP</string>
+    <string name="search_text">Search</string>
+    <string name="any_place_text">Any Place</string>
+    <string name="search_place_description">Got a place in mind ? Use our Geolocation services to know all about your destination.</string>
+    <string name="get_started_text">GET STARTED</string>
+</resources>
